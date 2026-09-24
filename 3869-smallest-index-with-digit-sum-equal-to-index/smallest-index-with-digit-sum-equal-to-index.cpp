@@ -8,7 +8,7 @@ public:
                 temp/=10;
             }
             if(dig==i){
-                return dig;
+                return i;
             }
         }
         return -1;
